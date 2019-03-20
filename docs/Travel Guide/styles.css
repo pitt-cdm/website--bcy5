@@ -1,11 +1,130 @@
+/* index */
 .button {
   font-weight: bold;
   padding: 10px;
   text-align: center;
-  border: 4px solid #5D6063;    /* Dark gray */
+  border: 4px solid #5D6063;
   border-radius: 8px;
+  font-size: 30px;
 
 
   width: 200px;
   margin: 20px auto;
+}
+
+.Title {
+  width:700px;
+  margin: 0 auto;
+  font-family: Gill Sans, sans-serif;
+  font-variant: small-caps;
+}
+
+.TitlePic {
+  width: 650px;
+  margin: 0 auto;
+}
+
+.Intro {
+  font-family: Helvetica, sans-serif
+}
+/* index end */
+/* Menu begin */
+.row {
+  display: flex;
+  text-align: center;
+  font-family: Gill Sans, sans-serif;
+  font-size: 20px;
+}
+
+.column {
+  flex: 50%;
+}
+
+.Menu {
+  width:550px;
+  margin: 0 auto;
+  font-family: Gill Sans, sans-serif;
+  font-variant: small-caps;
+}
+
+.button0 {
+  font-weight: bold;
+  padding: 10px;
+  border: 2px solid #5D6063;
+  border-radius: 2px;
+  float:right;
+  font-size: 20px;
+}
+/* Menu end */
+/* Tokyo Page Begin */
+.Tokyo {
+  width:600px;
+  margin: 0 auto;
+  font-family: Gill Sans, sans-serif;
+  font-variant: small-caps;
+}
+/* Tokyo Page End */
+/* Kyoto Page Begin */
+.Kyoto {
+  width:600px;
+  margin: 0 auto;
+  font-family: Gill Sans, sans-serif;
+  font-variant: small-caps;
+}
+/* Kyoto Page End */
+/* Hiroshima Page Begin */
+.Hiroshima {
+  width:600px;
+  margin: 0 auto;
+  font-family: Gill Sans, sans-serif;
+  font-variant: small-caps;
+}
+/* Hiroshima Page End */
+/* Osaka Page Begin */
+.Osaka {
+  width:650px;
+  margin: 0 auto;
+  font-family: Gill Sans, sans-serif;
+  font-variant: small-caps;
+}
+/* Osaka Page End */
+
+/* Shared */
+.Text1 {
+  font-family:monospace;
+  text-align:left;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.Text2 {
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  font-family:monospace;
+}
+
+.FoodTitle {
+  text-align: left;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: cursive;
+}
+
+.button2 {
+  font-weight: bold;
+  padding: 10px;
+  border: 2px solid #5D6063;
+  border-radius: 2px;
+  float: left;
+  font-size: 20px;
+}
+
+.button3 {
+  font-weight: bold;
+  padding: 10px;
+  border: 2px solid #5D6063;
+  border-radius: 2px;
+  float: right;
+  font-size: 20px;
 }
