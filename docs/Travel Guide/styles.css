@@ -55,6 +55,15 @@
   float:right;
   font-size: 20px;
 }
+
+.Tip {
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 20px;
+  width:700px;
+  margin: 0 auto;
+
+}
 /* Menu end */
 /* Tokyo Page Begin */
 .Tokyo {
